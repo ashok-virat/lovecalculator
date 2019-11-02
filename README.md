@@ -1,6 +1,6 @@
 # Site Link
 
-https://ashok-virat.github.io/calculator/
+https://ak-love-calculator.herokuapp.com/
 
 # AgeCalculator
 
