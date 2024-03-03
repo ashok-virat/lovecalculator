@@ -5,12 +5,12 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "deploy":"gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
   "private": true,
-  "homepage":"https://ashok-virat.github.io/lovecalculator",
+  "homepage": "./",
   "dependencies": {
     "@angular/animations": "^8.1.2",
     "@angular/common": "~8.1.2",
